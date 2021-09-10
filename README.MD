@@ -1,4 +1,4 @@
-#### Start
+#### Start from terminal
 
 ```bash
 docker-compose up -d
