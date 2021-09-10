@@ -9,3 +9,6 @@ docker-compose up -d
 ```bash
 docker ps
 ```
+
+## Use
+Browse to  `http://localhost:15672/` with default user:guest and pass:guest
