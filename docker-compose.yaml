@@ -4,7 +4,7 @@ version: "3.5"
 services:
 
     rabbitmq:
-        image: rabbitmq:3.8.9-management
+        image: rabbitmq:management
         container_name: rabbitmq
         restart: always
         tty: true
